@@ -31,6 +31,8 @@ people.
 
 
 (SQL INJECTION)
+The blue is the one that is not being sanitized.
+<a href="https://imgflip.com/gif/1y9496"><img src="https://i.imgflip.com/1y9496.gif" title="made at imgflip.com"/></a>
 
 
 
