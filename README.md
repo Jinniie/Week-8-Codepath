@@ -13,4 +13,6 @@ which is why it stays bold even for the wrong usernames.
 
 (INSECURE DIRECT OBJECT REFERENCE)
 
+<a href="https://imgflip.com/gif/1y92k7"><img src="https://i.imgflip.com/1y92k7.gif" title="made at imgflip.com"/></a>
+
 
