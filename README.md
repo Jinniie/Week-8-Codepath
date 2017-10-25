@@ -47,7 +47,12 @@ The green
 the red
 
 
+
 (SESSION HIJACKING/FIXATION)
+
+It's blue.
+loged in from red and blue still gets loged in.
+<a href="https://imgflip.com/gif/1y96g6"><img src="https://i.imgflip.com/1y96g6.gif" title="made at imgflip.com"/></a>
 
 
 
