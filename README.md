@@ -36,6 +36,7 @@ The blue is the one that is not being sanitized.
 
 
 (CROSS-SITE SCRIPTING)
+<a href="https://imgflip.com/gif/1y955g"><img src="https://i.imgflip.com/1y955g.gif" title="made at imgflip.com"/></a>
 
 
 
