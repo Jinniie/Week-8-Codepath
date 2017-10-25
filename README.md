@@ -44,6 +44,11 @@ The green
 
 
 (CROSS-SITE REQUEST FORGERY)
+the red
+
+
+(SESSION HIJACKING/FIXATION)
+
 
 
 
